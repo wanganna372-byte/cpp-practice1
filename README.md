@@ -3,6 +3,10 @@
 本项目包含binary-search、merge-sort、maximum-return和matrix的 C++ 实现。
 每个程序都包含测试，运行后会输出 PASS 或 FAIL。
 
+## GitHub 小项目
+
+仓库链接：
+
 ## 文件说明
 
 - `binary-search.cpp`：在升序数组中查找目标值，返回下标；找不到时返回 -1。
