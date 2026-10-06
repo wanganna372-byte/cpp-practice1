@@ -7,6 +7,8 @@
 
 仓库链接：https://github.com/wanganna372-byte/cpp-practice1
 
+本项目收录了binary-search、merge-sort、maximum-return和matrix的 C++ 实现，包含测试代码及编译运行说明。
+
 ## 文件说明
 
 - `binary-search.cpp`：在升序数组中查找目标值，返回下标；找不到时返回 -1。
