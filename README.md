@@ -5,7 +5,7 @@
 
 ## GitHub 小项目
 
-仓库链接：
+仓库链接：https://github.com/wanganna372-byte/cpp-practice1
 
 ## 文件说明
 
